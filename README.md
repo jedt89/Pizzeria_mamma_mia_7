@@ -40,7 +40,7 @@
 # Instalación
 
 1.- Clona el repositorio:
-➡️ git clone https://github.com/jedt89/Pizzeria_mamma_mia_6.git
+➡️ git clone https://github.com/jedt89/Pizzeria_mamma_mia_7.git
 
 2.-Navega al directorio del proyecto e instala las dependencias:
 ➡️ npm install
