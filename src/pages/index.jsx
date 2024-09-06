@@ -1,0 +1,9 @@
+export { default as CartDialog } from '../pages/CartDialog.jsx';
+export { default as CartPizzaCard } from '../pages/CartPizzaCard.jsx';
+export { default as Home } from '../pages/Home.jsx';
+export { default as RegisterDialog } from '../pages/RegisterDialog.jsx';
+export { default as ProfileDialog } from '../pages/ProfileDialog.jsx';
+export { default as NotFound } from '../pages/NotFound.jsx';
+export { default as PizzaCard } from '../pages/PizzaCard.jsx';
+export { default as LoginDialog } from '../pages/LoginDialog.jsx';
+export { default as PizzaDetail } from '../pages/PizzaDetail.jsx';
